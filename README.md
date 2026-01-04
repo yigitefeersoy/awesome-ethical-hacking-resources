@@ -19,8 +19,6 @@ Burada paylaştıklarım, hackleme ve sızma testini daha hızlı öğrenmeniz i
 
 **Fork yapmaya ve katkıda bulunmaya davetlisiniz.**
 
-**Ayrıca yazılarımı/yazdığım kodları profilimde bulabilirsiniz: @fodensoftware :)**
-
 ## Kitaplar
 
 1.  The Hacker Playbook 2: Sızma Testine Pratik Rehber
